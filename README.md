@@ -1,4 +1,4 @@
-# Hi there, I'm Favy! 👋
+# Hi there, I'm favy! 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Passionate+Developer+🚀" alt="Typing SVG" />
@@ -7,12 +7,10 @@
 ---
 
 ## About Me
-
-- 💻 I love building things with code
-- 🌱 Always learning and growing
-- 🎯 Focused on writing clean, useful software
-- ⚡ Fun fact: I debug with curiosity, not panic
-
+- I'm currently learning programming from scratch
+- Always curious and eager to try new things
+- Beginner developer on a journey to grow
+- Open to feedback and collaboration
 ---
 
 ## 🛠️ Skills & Technologies
