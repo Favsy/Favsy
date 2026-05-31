@@ -46,6 +46,6 @@
 ###
 
 <br clear="both">
-<img src="https://raw.githubusercontent.com/Favsy/Favsy/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/favyy/favyy/snake-output/snake.svg" alt="Snake animation" />
 
 ###
