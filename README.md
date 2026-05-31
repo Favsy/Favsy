@@ -1,5 +1,9 @@
 <h2 align="left">Hi 👋! My name is favyy </h2>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1¢er=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Passionate+Developer+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
 ## About Me
 
 - I'm currently learning programming from scratch
