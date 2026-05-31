@@ -6,7 +6,7 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## About Me
 
 - 💻 I love building things with code
 - 🌱 Always learning and growing
@@ -27,12 +27,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=favy&show_icons=true&theme=tokyonight" alt="Favy's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=favy&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
 
