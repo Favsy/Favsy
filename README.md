@@ -1,11 +1,11 @@
 <h2 align="left">Hi 👋! My name is favyy </h2>
 
-###
+## About Me
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
+- I'm currently learning programming from scratch
+- Always curious and eager to try new things
+- Beginner developer on a journey to grow
+- Open to feedback and collaboration
 
 ###
 
