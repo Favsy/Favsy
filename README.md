@@ -11,7 +11,7 @@
 - Beginner developer on a journey to grow
 - Open to feedback and collaboration
 
-<img align="right" height="150" src="https://media1.tenor.com/m/1hXQhIfoKj8AAAAC/headpatsforklee-furina.gif" />
+<img align="right" height="150" src="https://media1.tenor.com/m/1hXQhIfoKj8AAAAC/headpatsforklee-furina.gif" alt="Furina headpat gif" />
 
 ### Skills
 <div align="left">
