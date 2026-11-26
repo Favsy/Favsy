@@ -11,10 +11,6 @@
 - Beginner developer on a journey to grow
 - Open to feedback and collaboration
 
-###
-
-
-
 <img align="right" height="150" src="https://media1.tenor.com/m/1hXQhIfoKj8AAAAC/headpatsforklee-furina.gif" />
 
 ### Skills
@@ -40,21 +36,15 @@
   <a href="https://www.instagram.com/__faviann/">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
-  <a href="https://discord.com/users/https://discord.com/users/fvy">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   <a href="https://www.linkedin.com/in/favian-anggara-7890b4376/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
 
-###
 <div align="center">
   <img src="https://raw.githubusercontent.com/Favsy/Favsy/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/Favsy/Favsy/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 <br clear="both">
-<img src="https://raw.githubusercontent.com/Favsy/favyy/snake-output/snake.svg" alt="Snake animation" />
-
-
-###
+<img src="https://raw.githubusercontent.com/Favsy/Favsy/snake-output/snake.svg" alt="Snake animation" />
